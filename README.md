@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi, I'm Shelley 🤠
+
+I'm a first year Systems Design Engineering student at the University of Waterloo! Currently, I'm looking to expand my knowledge in several fields of technology and design, with a focus on full stack development!
+
+📫 How to reach me:
+- LinkedIn: www.linkedin.com/in/shelleychenn
+- Email: s39chen@uwaterloo.ca
 
 <!--
 **shelleychen318/shelleychen318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

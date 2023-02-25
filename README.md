@@ -6,6 +6,10 @@ I'm a first year Systems Design Engineering student at the University of Waterlo
 - LinkedIn: www.linkedin.com/in/shelleychenn
 - Email: s39chen@uwaterloo.ca
 
+#
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shelleychen318&layout=compact)](https://github.com/shelleychen318/github-readme-stats)
+
 <!--
 **shelleychen318/shelleychen318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

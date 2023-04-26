@@ -2,7 +2,7 @@
 
 I'm a first year Systems Design Engineering student at the University of Waterloo! Currently, I'm looking to expand my knowledge in several fields of technology and design, with a focus on full stack development.
 
-When I'm not coding, you can find me outdoors going on hikes or exploring new restaurants (as evidenced by my profile picture!).
+In my free time, you can find me outdoors going on hikes or exploring new restaurants (as evidenced by my profile picture!).
 
 📫 Feel free to reach out to me!  
 LinkedIn: www.linkedin.com/in/shelleychenn  
